@@ -1,0 +1,73 @@
+{
+  "main_bot": {
+    "status": "online",
+    "device_name": "bot",
+    "device_type": "bot",
+    "user_id": "657a06ae5f8a5ec3ff16ec1b",
+    "room_id": "6421f0755d00cf67506a209f",
+    "last_seen": "2025-12-03T14:39:03.416028"
+  },
+  "1": {
+    "status": "restarted",
+    "owner": null,
+    "device_type": "bot",
+    "last_seen": "2025-12-03T14:59:25.597292"
+  },
+  "توم": {
+    "status": "restarted",
+    "owner": null,
+    "device_type": "bot",
+    "last_seen": "2025-12-03T14:59:25.597292"
+  },
+  "hadear": {
+    "status": "online",
+    "owner": "HeadgearGauze",
+    "heartbeat_age": "649s",
+    "device_type": "bot",
+    "last_seen": "2025-12-03T14:59:25.597292"
+  },
+  "drcp": {
+    "status": "online",
+    "owner": "drcp",
+    "heartbeat_age": "376s",
+    "device_type": "bot",
+    "last_seen": "2025-12-03T14:59:25.597292"
+  },
+  "ablc2": {
+    "status": "online",
+    "owner": "ablsc2",
+    "heartbeat_age": "602s",
+    "device_type": "bot",
+    "last_seen": "2025-12-03T14:59:25.597292"
+  },
+  "abcle": {
+    "status": "restarted",
+    "owner": null,
+    "device_type": "bot",
+    "last_seen": "2025-12-03T14:59:25.597292"
+  },
+  "room_montaza": {
+    "status": "restarted",
+    "owner": null,
+    "device_type": "bot",
+    "last_seen": "2025-12-03T14:59:25.597292"
+  },
+  "kholud": {
+    "status": "restarted",
+    "owner": null,
+    "device_type": "bot",
+    "last_seen": "2025-12-03T14:59:25.597292"
+  },
+  "sugar": {
+    "status": "restarted",
+    "owner": null,
+    "device_type": "bot",
+    "last_seen": "2025-12-03T14:59:25.597292"
+  },
+  "rayan": {
+    "status": "restarted",
+    "owner": null,
+    "device_type": "bot",
+    "last_seen": "2025-12-03T14:59:25.597292"
+  }
+}

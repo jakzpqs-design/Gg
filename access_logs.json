@@ -1,0 +1,1024 @@
+[
+  {
+    "timestamp": "2025-12-02T09:44:56.124657",
+    "method": "GET",
+    "path": "/",
+    "ip_address": "172.31.73.226",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "headers": {
+      "Host": "e978bfc8-5ea0-4b6b-b742-c369bdc109dd-00-jxvrfrbhupnf.kirk.replit.dev",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "Accept-Encoding": "identity, gzip, deflate, br, zstd",
+      "Accept-Language": "ar-EG,ar-AE;q=0.9,ar;q=0.8,en-US;q=0.7,en;q=0.6",
+      "Referer": "https://e978bfc8-5ea0-4b6b-b742-c369bdc109dd-00-jxvrfrbhupnf.kirk.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar9o%3A",
+      "Sec-Ch-Ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "Sec-Ch-Ua-Platform": "\"Linux\"",
+      "Sec-Fetch-Dest": "iframe",
+      "Sec-Fetch-Mode": "navigate",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Storage-Access": "active",
+      "Upgrade-Insecure-Requests": "1",
+      "X-Forwarded-For": "102.184.120.50, 10.82.9.118",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": null,
+    "data": ""
+  },
+  {
+    "timestamp": "2025-12-03T09:46:08.383742",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "235",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.11.153",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "bot_connected",
+      "bot_name": "main_bot",
+      "device_name": "bot",
+      "device_type": "bot",
+      "user_id": "657a06ae5f8a5ec3ff16ec1b",
+      "room_id": "6421f0755d00cf67506a209f",
+      "timestamp": "2025-12-03T09:46:08.084621",
+      "status": "online"
+    },
+    "data": "{\"event\": \"bot_connected\", \"bot_name\": \"main_bot\", \"device_name\": \"bot\", \"device_type\": \"bot\", \"user_id\": \"657a06ae5f8a5ec3ff16ec1b\", \"room_id\": \"6421f0755d00cf67506a209f\", \"timestamp\": \"2025-12-03T09:46:08.084621\", \"status\": \"online\"}"
+  },
+  {
+    "timestamp": "2025-12-03T09:49:43.753280",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "235",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.7.67",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "bot_connected",
+      "bot_name": "main_bot",
+      "device_name": "bot",
+      "device_type": "bot",
+      "user_id": "657a06ae5f8a5ec3ff16ec1b",
+      "room_id": "6421f0755d00cf67506a209f",
+      "timestamp": "2025-12-03T09:49:43.480585",
+      "status": "online"
+    },
+    "data": "{\"event\": \"bot_connected\", \"bot_name\": \"main_bot\", \"device_name\": \"bot\", \"device_type\": \"bot\", \"user_id\": \"657a06ae5f8a5ec3ff16ec1b\", \"room_id\": \"6421f0755d00cf67506a209f\", \"timestamp\": \"2025-12-03T09:49:43.480585\", \"status\": \"online\"}"
+  },
+  {
+    "timestamp": "2025-12-03T09:50:03.865545",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "433",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.7.67",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "system_startup",
+      "device_name": "bot_manager",
+      "device_type": "bot_manager",
+      "timestamp": "2025-12-03 09:50:03",
+      "started_bots": [
+        {
+          "name": "1",
+          "owner": "VECTOR000",
+          "room_id": "66795df63d11ff193c6bc807"
+        },
+        {
+          "name": "توم",
+          "owner": "Srjiahmad",
+          "room_id": "65f092eba92b14913517127a"
+        },
+        {
+          "name": "hadear",
+          "owner": "HeadgearGauze",
+          "room_id": "68bf10d952de97ee7debe841"
+        }
+      ],
+      "total_bots": 10,
+      "running_count": 3
+    },
+    "data": "{\"event\": \"system_startup\", \"device_name\": \"bot_manager\", \"device_type\": \"bot_manager\", \"timestamp\": \"2025-12-03 09:50:03\", \"started_bots\": [{\"name\": \"1\", \"owner\": \"VECTOR000\", \"room_id\": \"66795df63d11ff193c6bc807\"}, {\"name\": \"\\u062a\\u0648\\u0645\", \"owner\": \"Srjiahmad\", \"room_id\": \"65f092eba92b14913517127a\"}, {\"name\": \"hadear\", \"owner\": \"HeadgearGauze\", \"room_id\": \"68bf10d952de97ee7debe841\"}], \"total_bots\": 10, \"running_count\": 3}"
+  },
+  {
+    "timestamp": "2025-12-03T09:56:11.747130",
+    "method": "GET",
+    "path": "/",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "Accept-Encoding": "identity, gzip, deflate, br, zstd",
+      "Accept-Language": "ar-EG,ar;q=0.9,en-IE;q=0.8,en;q=0.7,en-US;q=0.6",
+      "Referer": "https://d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ardc%3A",
+      "Sec-Ch-Ua": "\"Chromium\";v=\"125\", \"Not.A/Brand\";v=\"24\"",
+      "Sec-Ch-Ua-Mobile": "?1",
+      "Sec-Ch-Ua-Platform": "\"Android\"",
+      "Sec-Fetch-Dest": "iframe",
+      "Sec-Fetch-Mode": "navigate",
+      "Sec-Fetch-Site": "same-origin",
+      "Upgrade-Insecure-Requests": "1",
+      "X-Forwarded-For": "102.186.95.164, 10.82.2.48",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": null,
+    "data": ""
+  },
+  {
+    "timestamp": "2025-12-03T09:59:44.038874",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "1011",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.2.48",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "health_check",
+      "device_name": "bot_manager",
+      "device_type": "bot_manager",
+      "timestamp": "2025-12-03 09:59:43",
+      "health_check_data": {
+        "timestamp": "2025-12-03 09:59:43",
+        "healthy_bots": [
+          {
+            "name": "1",
+            "heartbeat_age": "600s",
+            "owner": "VECTOR000"
+          },
+          {
+            "name": "توم",
+            "heartbeat_age": "598s",
+            "owner": "Srjiahmad"
+          },
+          {
+            "name": "hadear",
+            "heartbeat_age": "596s",
+            "owner": "HeadgearGauze"
+          },
+          {
+            "name": "drcp",
+            "heartbeat_age": "595s",
+            "owner": "drcp"
+          },
+          {
+            "name": "ablc2",
+            "heartbeat_age": "593s",
+            "owner": "ablsc2"
+          },
+          {
+            "name": "abcle",
+            "heartbeat_age": "591s",
+            "owner": "ablsc2"
+          },
+          {
+            "name": "room_montaza",
+            "heartbeat_age": "589s",
+            "owner": "montazah"
+          },
+          {
+            "name": "kholud",
+            "heartbeat_age": "587s",
+            "owner": "kholud2"
+          },
+          {
+            "name": "sugar",
+            "heartbeat_age": "585s",
+            "owner": "sagur_80"
+          },
+          {
+            "name": "rayan",
+            "heartbeat_age": "583s",
+            "owner": "rayan__love1"
+          }
+        ],
+        "restarted_bots": [],
+        "failed_bots": [],
+        "stopped_bots": [],
+        "total_checked": 10,
+        "healthy_count": 10,
+        "restarted_count": 0,
+        "failed_count": 0
+      }
+    },
+    "data": "{\"event\": \"health_check\", \"device_name\": \"bot_manager\", \"device_type\": \"bot_manager\", \"timestamp\": \"2025-12-03 09:59:43\", \"health_check_data\": {\"timestamp\": \"2025-12-03 09:59:43\", \"healthy_bots\": [{\"name\": \"1\", \"heartbeat_age\": \"600s\", \"owner\": \"VECTOR000\"}, {\"name\": \"\\u062a\\u0648\\u0645\", \"heartbeat_age\": \"598s\", \"owner\": \"Srjiahmad\"}, {\"name\": \"hadear\", \"heartbeat_age\": \"596s\", \"owner\": \"HeadgearGauze\"}, {\"name\": \"drcp\", \"heartbeat_age\": \"595s\", \"owner\": \"drcp\"}, {\"name\": \"ablc2\", \"heartbeat_age\": \"593s\", \"owner\": \"ablsc2\"}, {\"name\": \"abcle\", \"heartbeat_age\": \"591s\", \"owner\": \"ablsc2\"}, {\"name\": \"room_montaza\", \"heartbeat_age\": \"589s\", \"owner\": \"montazah\"}, {\"name\": \"kholud\", \"heartbeat_age\": \"587s\", \"owner\": \"kholud2\"}, {\"name\": \"sugar\", \"heartbeat_age\": \"585s\", \"owner\": \"sagur_80\"}, {\"name\": \"rayan\", \"heartbeat_age\": \"583s\", \"owner\": \"rayan__love1\"}], \"restarted_bots\": [], \"failed_bots\": [], \"stopped_bots\": [], \"total_checked\": 10, \"healthy_count\": 10, \"restarted_count\": 0, \"failed_count\": 0}}"
+  },
+  {
+    "timestamp": "2025-12-03T10:11:04.907913",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "235",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.2.48",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "bot_connected",
+      "bot_name": "main_bot",
+      "device_name": "bot",
+      "device_type": "bot",
+      "user_id": "657a06ae5f8a5ec3ff16ec1b",
+      "room_id": "6421f0755d00cf67506a209f",
+      "timestamp": "2025-12-03T10:11:04.623825",
+      "status": "online"
+    },
+    "data": "{\"event\": \"bot_connected\", \"bot_name\": \"main_bot\", \"device_name\": \"bot\", \"device_type\": \"bot\", \"user_id\": \"657a06ae5f8a5ec3ff16ec1b\", \"room_id\": \"6421f0755d00cf67506a209f\", \"timestamp\": \"2025-12-03T10:11:04.623825\", \"status\": \"online\"}"
+  },
+  {
+    "timestamp": "2025-12-03T10:11:25.003763",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "433",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.2.48",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "system_startup",
+      "device_name": "bot_manager",
+      "device_type": "bot_manager",
+      "timestamp": "2025-12-03 10:11:24",
+      "started_bots": [
+        {
+          "name": "1",
+          "owner": "VECTOR000",
+          "room_id": "66795df63d11ff193c6bc807"
+        },
+        {
+          "name": "توم",
+          "owner": "Srjiahmad",
+          "room_id": "65f092eba92b14913517127a"
+        },
+        {
+          "name": "hadear",
+          "owner": "HeadgearGauze",
+          "room_id": "68bf10d952de97ee7debe841"
+        }
+      ],
+      "total_bots": 10,
+      "running_count": 3
+    },
+    "data": "{\"event\": \"system_startup\", \"device_name\": \"bot_manager\", \"device_type\": \"bot_manager\", \"timestamp\": \"2025-12-03 10:11:24\", \"started_bots\": [{\"name\": \"1\", \"owner\": \"VECTOR000\", \"room_id\": \"66795df63d11ff193c6bc807\"}, {\"name\": \"\\u062a\\u0648\\u0645\", \"owner\": \"Srjiahmad\", \"room_id\": \"65f092eba92b14913517127a\"}, {\"name\": \"hadear\", \"owner\": \"HeadgearGauze\", \"room_id\": \"68bf10d952de97ee7debe841\"}], \"total_bots\": 10, \"running_count\": 3}"
+  },
+  {
+    "timestamp": "2025-12-03T10:13:02.118627",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "235",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.9.118",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "bot_connected",
+      "bot_name": "main_bot",
+      "device_name": "bot",
+      "device_type": "bot",
+      "user_id": "657a06ae5f8a5ec3ff16ec1b",
+      "room_id": "6421f0755d00cf67506a209f",
+      "timestamp": "2025-12-03T10:13:01.872285",
+      "status": "online"
+    },
+    "data": "{\"event\": \"bot_connected\", \"bot_name\": \"main_bot\", \"device_name\": \"bot\", \"device_type\": \"bot\", \"user_id\": \"657a06ae5f8a5ec3ff16ec1b\", \"room_id\": \"6421f0755d00cf67506a209f\", \"timestamp\": \"2025-12-03T10:13:01.872285\", \"status\": \"online\"}"
+  },
+  {
+    "timestamp": "2025-12-03T10:13:22.219626",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "433",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.9.118",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "system_startup",
+      "device_name": "bot_manager",
+      "device_type": "bot_manager",
+      "timestamp": "2025-12-03 10:13:22",
+      "started_bots": [
+        {
+          "name": "1",
+          "owner": "VECTOR000",
+          "room_id": "66795df63d11ff193c6bc807"
+        },
+        {
+          "name": "توم",
+          "owner": "Srjiahmad",
+          "room_id": "65f092eba92b14913517127a"
+        },
+        {
+          "name": "hadear",
+          "owner": "HeadgearGauze",
+          "room_id": "68bf10d952de97ee7debe841"
+        }
+      ],
+      "total_bots": 10,
+      "running_count": 3
+    },
+    "data": "{\"event\": \"system_startup\", \"device_name\": \"bot_manager\", \"device_type\": \"bot_manager\", \"timestamp\": \"2025-12-03 10:13:22\", \"started_bots\": [{\"name\": \"1\", \"owner\": \"VECTOR000\", \"room_id\": \"66795df63d11ff193c6bc807\"}, {\"name\": \"\\u062a\\u0648\\u0645\", \"owner\": \"Srjiahmad\", \"room_id\": \"65f092eba92b14913517127a\"}, {\"name\": \"hadear\", \"owner\": \"HeadgearGauze\", \"room_id\": \"68bf10d952de97ee7debe841\"}], \"total_bots\": 10, \"running_count\": 3}"
+  },
+  {
+    "timestamp": "2025-12-03T10:23:02.422544",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "1010",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.9.118",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "health_check",
+      "device_name": "bot_manager",
+      "device_type": "bot_manager",
+      "timestamp": "2025-12-03 10:23:02",
+      "health_check_data": {
+        "timestamp": "2025-12-03 10:23:02",
+        "healthy_bots": [
+          {
+            "name": "1",
+            "heartbeat_age": "600s",
+            "owner": "VECTOR000"
+          },
+          {
+            "name": "توم",
+            "heartbeat_age": "598s",
+            "owner": "Srjiahmad"
+          },
+          {
+            "name": "hadear",
+            "heartbeat_age": "596s",
+            "owner": "HeadgearGauze"
+          },
+          {
+            "name": "drcp",
+            "heartbeat_age": "595s",
+            "owner": "drcp"
+          },
+          {
+            "name": "ablc2",
+            "heartbeat_age": "593s",
+            "owner": "ablsc2"
+          },
+          {
+            "name": "abcle",
+            "heartbeat_age": "591s",
+            "owner": "ablsc2"
+          },
+          {
+            "name": "room_montaza",
+            "heartbeat_age": "589s",
+            "owner": "montazah"
+          },
+          {
+            "name": "kholud",
+            "heartbeat_age": "13s",
+            "owner": "kholud2"
+          },
+          {
+            "name": "sugar",
+            "heartbeat_age": "585s",
+            "owner": "sagur_80"
+          },
+          {
+            "name": "rayan",
+            "heartbeat_age": "583s",
+            "owner": "rayan__love1"
+          }
+        ],
+        "restarted_bots": [],
+        "failed_bots": [],
+        "stopped_bots": [],
+        "total_checked": 10,
+        "healthy_count": 10,
+        "restarted_count": 0,
+        "failed_count": 0
+      }
+    },
+    "data": "{\"event\": \"health_check\", \"device_name\": \"bot_manager\", \"device_type\": \"bot_manager\", \"timestamp\": \"2025-12-03 10:23:02\", \"health_check_data\": {\"timestamp\": \"2025-12-03 10:23:02\", \"healthy_bots\": [{\"name\": \"1\", \"heartbeat_age\": \"600s\", \"owner\": \"VECTOR000\"}, {\"name\": \"\\u062a\\u0648\\u0645\", \"heartbeat_age\": \"598s\", \"owner\": \"Srjiahmad\"}, {\"name\": \"hadear\", \"heartbeat_age\": \"596s\", \"owner\": \"HeadgearGauze\"}, {\"name\": \"drcp\", \"heartbeat_age\": \"595s\", \"owner\": \"drcp\"}, {\"name\": \"ablc2\", \"heartbeat_age\": \"593s\", \"owner\": \"ablsc2\"}, {\"name\": \"abcle\", \"heartbeat_age\": \"591s\", \"owner\": \"ablsc2\"}, {\"name\": \"room_montaza\", \"heartbeat_age\": \"589s\", \"owner\": \"montazah\"}, {\"name\": \"kholud\", \"heartbeat_age\": \"13s\", \"owner\": \"kholud2\"}, {\"name\": \"sugar\", \"heartbeat_age\": \"585s\", \"owner\": \"sagur_80\"}, {\"name\": \"rayan\", \"heartbeat_age\": \"583s\", \"owner\": \"rayan__love1\"}], \"restarted_bots\": [], \"failed_bots\": [], \"stopped_bots\": [], \"total_checked\": 10, \"healthy_count\": 10, \"restarted_count\": 0, \"failed_count\": 0}}"
+  },
+  {
+    "timestamp": "2025-12-03T10:32:32.310434",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "235",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.0.199",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "bot_connected",
+      "bot_name": "main_bot",
+      "device_name": "bot",
+      "device_type": "bot",
+      "user_id": "657a06ae5f8a5ec3ff16ec1b",
+      "room_id": "6421f0755d00cf67506a209f",
+      "timestamp": "2025-12-03T10:32:32.051428",
+      "status": "online"
+    },
+    "data": "{\"event\": \"bot_connected\", \"bot_name\": \"main_bot\", \"device_name\": \"bot\", \"device_type\": \"bot\", \"user_id\": \"657a06ae5f8a5ec3ff16ec1b\", \"room_id\": \"6421f0755d00cf67506a209f\", \"timestamp\": \"2025-12-03T10:32:32.051428\", \"status\": \"online\"}"
+  },
+  {
+    "timestamp": "2025-12-03T10:32:52.427340",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "433",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.0.199",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "system_startup",
+      "device_name": "bot_manager",
+      "device_type": "bot_manager",
+      "timestamp": "2025-12-03 10:32:52",
+      "started_bots": [
+        {
+          "name": "1",
+          "owner": "VECTOR000",
+          "room_id": "66795df63d11ff193c6bc807"
+        },
+        {
+          "name": "توم",
+          "owner": "Srjiahmad",
+          "room_id": "65f092eba92b14913517127a"
+        },
+        {
+          "name": "hadear",
+          "owner": "HeadgearGauze",
+          "room_id": "68bf10d952de97ee7debe841"
+        }
+      ],
+      "total_bots": 10,
+      "running_count": 3
+    },
+    "data": "{\"event\": \"system_startup\", \"device_name\": \"bot_manager\", \"device_type\": \"bot_manager\", \"timestamp\": \"2025-12-03 10:32:52\", \"started_bots\": [{\"name\": \"1\", \"owner\": \"VECTOR000\", \"room_id\": \"66795df63d11ff193c6bc807\"}, {\"name\": \"\\u062a\\u0648\\u0645\", \"owner\": \"Srjiahmad\", \"room_id\": \"65f092eba92b14913517127a\"}, {\"name\": \"hadear\", \"owner\": \"HeadgearGauze\", \"room_id\": \"68bf10d952de97ee7debe841\"}], \"total_bots\": 10, \"running_count\": 3}"
+  },
+  {
+    "timestamp": "2025-12-03T10:37:44.569939",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "235",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.0.199",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "bot_connected",
+      "bot_name": "main_bot",
+      "device_name": "bot",
+      "device_type": "bot",
+      "user_id": "657a06ae5f8a5ec3ff16ec1b",
+      "room_id": "6421f0755d00cf67506a209f",
+      "timestamp": "2025-12-03T10:37:44.322887",
+      "status": "online"
+    },
+    "data": "{\"event\": \"bot_connected\", \"bot_name\": \"main_bot\", \"device_name\": \"bot\", \"device_type\": \"bot\", \"user_id\": \"657a06ae5f8a5ec3ff16ec1b\", \"room_id\": \"6421f0755d00cf67506a209f\", \"timestamp\": \"2025-12-03T10:37:44.322887\", \"status\": \"online\"}"
+  },
+  {
+    "timestamp": "2025-12-03T10:38:04.909167",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.71.194",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "d59c289f-f848-4ca2-9a3a-db26e9ba9c30-00-3d1dblj38vqwx.kirk.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "433",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.23.95.205, 10.82.11.153",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "system_startup",
+      "device_name": "bot_manager",
+      "device_type": "bot_manager",
+      "timestamp": "2025-12-03 10:38:04",
+      "started_bots": [
+        {
+          "name": "1",
+          "owner": "VECTOR000",
+          "room_id": "66795df63d11ff193c6bc807"
+        },
+        {
+          "name": "توم",
+          "owner": "Srjiahmad",
+          "room_id": "65f092eba92b14913517127a"
+        },
+        {
+          "name": "hadear",
+          "owner": "HeadgearGauze",
+          "room_id": "68bf10d952de97ee7debe841"
+        }
+      ],
+      "total_bots": 10,
+      "running_count": 3
+    },
+    "data": "{\"event\": \"system_startup\", \"device_name\": \"bot_manager\", \"device_type\": \"bot_manager\", \"timestamp\": \"2025-12-03 10:38:04\", \"started_bots\": [{\"name\": \"1\", \"owner\": \"VECTOR000\", \"room_id\": \"66795df63d11ff193c6bc807\"}, {\"name\": \"\\u062a\\u0648\\u0645\", \"owner\": \"Srjiahmad\", \"room_id\": \"65f092eba92b14913517127a\"}, {\"name\": \"hadear\", \"owner\": \"HeadgearGauze\", \"room_id\": \"68bf10d952de97ee7debe841\"}], \"total_bots\": 10, \"running_count\": 3}"
+  },
+  {
+    "timestamp": "2025-12-03T14:39:03.416028",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.95.66",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "b704b1ef-5267-4133-b59a-98dd66201883-00-1jf1et9rem7yv.picard.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "235",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.56.253.73, 10.81.12.44",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "bot_connected",
+      "bot_name": "main_bot",
+      "device_name": "bot",
+      "device_type": "bot",
+      "user_id": "657a06ae5f8a5ec3ff16ec1b",
+      "room_id": "6421f0755d00cf67506a209f",
+      "timestamp": "2025-12-03T14:39:03.372870",
+      "status": "online"
+    },
+    "data": "{\"event\": \"bot_connected\", \"bot_name\": \"main_bot\", \"device_name\": \"bot\", \"device_type\": \"bot\", \"user_id\": \"657a06ae5f8a5ec3ff16ec1b\", \"room_id\": \"6421f0755d00cf67506a209f\", \"timestamp\": \"2025-12-03T14:39:03.372870\", \"status\": \"online\"}"
+  },
+  {
+    "timestamp": "2025-12-03T14:39:23.537241",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.95.66",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "b704b1ef-5267-4133-b59a-98dd66201883-00-1jf1et9rem7yv.picard.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "433",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.56.253.73, 10.81.4.45",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "system_startup",
+      "device_name": "bot_manager",
+      "device_type": "bot_manager",
+      "timestamp": "2025-12-03 14:39:23",
+      "started_bots": [
+        {
+          "name": "1",
+          "owner": "VECTOR000",
+          "room_id": "66795df63d11ff193c6bc807"
+        },
+        {
+          "name": "توم",
+          "owner": "Srjiahmad",
+          "room_id": "65f092eba92b14913517127a"
+        },
+        {
+          "name": "hadear",
+          "owner": "HeadgearGauze",
+          "room_id": "68bf10d952de97ee7debe841"
+        }
+      ],
+      "total_bots": 10,
+      "running_count": 3
+    },
+    "data": "{\"event\": \"system_startup\", \"device_name\": \"bot_manager\", \"device_type\": \"bot_manager\", \"timestamp\": \"2025-12-03 14:39:23\", \"started_bots\": [{\"name\": \"1\", \"owner\": \"VECTOR000\", \"room_id\": \"66795df63d11ff193c6bc807\"}, {\"name\": \"\\u062a\\u0648\\u0645\", \"owner\": \"Srjiahmad\", \"room_id\": \"65f092eba92b14913517127a\"}, {\"name\": \"hadear\", \"owner\": \"HeadgearGauze\", \"room_id\": \"68bf10d952de97ee7debe841\"}], \"total_bots\": 10, \"running_count\": 3}"
+  },
+  {
+    "timestamp": "2025-12-03T14:49:05.511530",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.95.66",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "b704b1ef-5267-4133-b59a-98dd66201883-00-1jf1et9rem7yv.picard.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "988",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.56.253.73, 10.81.11.117",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "health_check",
+      "device_name": "bot_manager",
+      "device_type": "bot_manager",
+      "timestamp": "2025-12-03 14:49:05",
+      "health_check_data": {
+        "timestamp": "2025-12-03 14:49:05",
+        "healthy_bots": [
+          {
+            "name": "1",
+            "heartbeat_age": "600s",
+            "owner": "VECTOR000"
+          },
+          {
+            "name": "توم",
+            "heartbeat_age": "598s",
+            "owner": "Srjiahmad"
+          },
+          {
+            "name": "hadear",
+            "heartbeat_age": "47s",
+            "owner": "HeadgearGauze"
+          },
+          {
+            "name": "drcp",
+            "heartbeat_age": "595s",
+            "owner": "drcp"
+          },
+          {
+            "name": "abcle",
+            "heartbeat_age": "591s",
+            "owner": "ablsc2"
+          },
+          {
+            "name": "room_montaza",
+            "heartbeat_age": "589s",
+            "owner": "montazah"
+          },
+          {
+            "name": "kholud",
+            "heartbeat_age": "587s",
+            "owner": "kholud2"
+          },
+          {
+            "name": "sugar",
+            "heartbeat_age": "585s",
+            "owner": "sagur_80"
+          },
+          {
+            "name": "rayan",
+            "heartbeat_age": "557s",
+            "owner": "rayan__love1"
+          }
+        ],
+        "restarted_bots": [
+          {
+            "name": "ablc2",
+            "reason": "was_stopped"
+          }
+        ],
+        "failed_bots": [],
+        "stopped_bots": [],
+        "total_checked": 10,
+        "healthy_count": 9,
+        "restarted_count": 1,
+        "failed_count": 0
+      }
+    },
+    "data": "{\"event\": \"health_check\", \"device_name\": \"bot_manager\", \"device_type\": \"bot_manager\", \"timestamp\": \"2025-12-03 14:49:05\", \"health_check_data\": {\"timestamp\": \"2025-12-03 14:49:05\", \"healthy_bots\": [{\"name\": \"1\", \"heartbeat_age\": \"600s\", \"owner\": \"VECTOR000\"}, {\"name\": \"\\u062a\\u0648\\u0645\", \"heartbeat_age\": \"598s\", \"owner\": \"Srjiahmad\"}, {\"name\": \"hadear\", \"heartbeat_age\": \"47s\", \"owner\": \"HeadgearGauze\"}, {\"name\": \"drcp\", \"heartbeat_age\": \"595s\", \"owner\": \"drcp\"}, {\"name\": \"abcle\", \"heartbeat_age\": \"591s\", \"owner\": \"ablsc2\"}, {\"name\": \"room_montaza\", \"heartbeat_age\": \"589s\", \"owner\": \"montazah\"}, {\"name\": \"kholud\", \"heartbeat_age\": \"587s\", \"owner\": \"kholud2\"}, {\"name\": \"sugar\", \"heartbeat_age\": \"585s\", \"owner\": \"sagur_80\"}, {\"name\": \"rayan\", \"heartbeat_age\": \"557s\", \"owner\": \"rayan__love1\"}], \"restarted_bots\": [{\"name\": \"ablc2\", \"reason\": \"was_stopped\"}], \"failed_bots\": [], \"stopped_bots\": [], \"total_checked\": 10, \"healthy_count\": 9, \"restarted_count\": 1, \"failed_count\": 0}}"
+  },
+  {
+    "timestamp": "2025-12-03T14:59:25.597292",
+    "method": "POST",
+    "path": "/webhook/bot_status",
+    "ip_address": "172.31.95.66",
+    "user_agent": "Python/3.11 aiohttp/3.9.4",
+    "headers": {
+      "Host": "b704b1ef-5267-4133-b59a-98dd66201883-00-1jf1et9rem7yv.picard.replit.dev",
+      "User-Agent": "Python/3.11 aiohttp/3.9.4",
+      "Content-Length": "1050",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Content-Type": "application/json",
+      "X-Forwarded-For": "34.56.253.73, 10.81.12.44",
+      "X-Forwarded-Proto": "https",
+      "X-Replit-User-Bio": "",
+      "X-Replit-User-Id": "",
+      "X-Replit-User-Name": "",
+      "X-Replit-User-Profile-Image": "",
+      "X-Replit-User-Roles": "",
+      "X-Replit-User-Teams": "",
+      "X-Replit-User-Url": ""
+    },
+    "query_params": {},
+    "form_data": {},
+    "json_data": {
+      "event": "health_check",
+      "device_name": "bot_manager",
+      "device_type": "bot_manager",
+      "timestamp": "2025-12-03 14:59:25",
+      "health_check_data": {
+        "timestamp": "2025-12-03 14:59:25",
+        "healthy_bots": [
+          {
+            "name": "hadear",
+            "heartbeat_age": "649s",
+            "owner": "HeadgearGauze"
+          },
+          {
+            "name": "drcp",
+            "heartbeat_age": "376s",
+            "owner": "drcp"
+          },
+          {
+            "name": "ablc2",
+            "heartbeat_age": "602s",
+            "owner": "ablsc2"
+          }
+        ],
+        "restarted_bots": [
+          {
+            "name": "1",
+            "reason": "heartbeat_timeout",
+            "heartbeat_age": "1202s"
+          },
+          {
+            "name": "توم",
+            "reason": "heartbeat_timeout",
+            "heartbeat_age": "1200s"
+          },
+          {
+            "name": "abcle",
+            "reason": "was_stopped"
+          },
+          {
+            "name": "room_montaza",
+            "reason": "heartbeat_timeout",
+            "heartbeat_age": "1191s"
+          },
+          {
+            "name": "kholud",
+            "reason": "heartbeat_timeout",
+            "heartbeat_age": "1189s"
+          },
+          {
+            "name": "sugar",
+            "reason": "heartbeat_timeout",
+            "heartbeat_age": "1187s"
+          },
+          {
+            "name": "rayan",
+            "reason": "heartbeat_timeout",
+            "heartbeat_age": "1159s"
+          }
+        ],
+        "failed_bots": [],
+        "stopped_bots": [],
+        "total_checked": 10,
+        "healthy_count": 3,
+        "restarted_count": 7,
+        "failed_count": 0
+      }
+    },
+    "data": "{\"event\": \"health_check\", \"device_name\": \"bot_manager\", \"device_type\": \"bot_manager\", \"timestamp\": \"2025-12-03 14:59:25\", \"health_check_data\": {\"timestamp\": \"2025-12-03 14:59:25\", \"healthy_bots\": [{\"name\": \"hadear\", \"heartbeat_age\": \"649s\", \"owner\": \"HeadgearGauze\"}, {\"name\": \"drcp\", \"heartbeat_age\": \"376s\", \"owner\": \"drcp\"}, {\"name\": \"ablc2\", \"heartbeat_age\": \"602s\", \"owner\": \"ablsc2\"}], \"restarted_bots\": [{\"name\": \"1\", \"reason\": \"heartbeat_timeout\", \"heartbeat_age\": \"1202s\"}, {\"name\": \"\\u062a\\u0648\\u0645\", \"reason\": \"heartbeat_timeout\", \"heartbeat_age\": \"1200s\"}, {\"name\": \"abcle\", \"reason\": \"was_stopped\"}, {\"name\": \"room_montaza\", \"reason\": \"heartbeat_timeout\", \"heartbeat_age\": \"1191s\"}, {\"name\": \"kholud\", \"reason\": \"heartbeat_timeout\", \"heartbeat_age\": \"1189s\"}, {\"name\": \"sugar\", \"reason\": \"heartbeat_timeout\", \"heartbeat_age\": \"1187s\"}, {\"name\": \"rayan\", \"reason\": \"heartbeat_timeout\", \"heartbeat_age\": \"1159s\"}], \"failed_bots\": [], \"stopped_bots\": [], \"total_checked\": 10, \"healthy_count\": 3, \"restarted_count\": 7, \"failed_count\": 0}}"
+  }
+]
